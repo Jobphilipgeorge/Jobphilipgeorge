@@ -1,13 +1,11 @@
-[![MasterHead](https://images.app.goo.gl/qGoXAmVmmNqRBroRA)]
 <h1 align="center">Hi 👋, I'm Job Philip George</h1>
 <h3 align="center">CS Engineer in the Making | Code Artisan | Building Tomorrow's Technology Today 💻🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-<img align="left" alt="Coding" width="400" src="https://i.gifer.com/5TMy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jobphilipgeorge&label=Profile%20views&color=0e75b6&style=flat" alt="jobphilipgeorge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jobphilipgeorge" alt="jobphilipgeorge" /></a> </p>
+
+
+
 
 - 📫 How to reach me **jobphilip@icloud.com**
 
