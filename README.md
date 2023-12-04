@@ -1,10 +1,15 @@
-<p align="right">
- <img src= "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
-</p>
-<ul>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
+
 
 <h1 align="center">Hi 👋, I'm Job Philip George</h1>
 <h3 align="center">CSE Student | Code Artisan | Building Tomorrow's Technology Today 💻🚀</h3>
+<p align="right">
+ <img src= "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</p>
+<ul>
+
 
 
 
@@ -44,6 +49,8 @@
 - 📫 How to reach me **jobphilip@icloud.com**
 
 - ⚡ Fun fact **Did you know? My code is so efficient that even my coffee needs a break while compiling! ☕💻 #CodeCrafting**
+- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
