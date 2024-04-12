@@ -17,6 +17,16 @@
 - Learning Web development from 2024 Web Development Bootcamp on Udemy
 - Metaverse
 
+# Projects
+
+## MetaMart🛍️ 
+[MetaMart](https://github.com/Jobphilipgeorge/MetaMart-24-HF24-Vortex.git) is an ultimate virtual marketplace tailored to Instagram and Facebook small business owners. Our platform is designed to provide a seamless and immersive shopping experience within the metaverse, allowing businesses to showcase and sell their products in virtual environments.
+
+## CryBell👶🏿
+[CryBell](https://github.com/Jobphilipgeorge/CryBell-Enhancing-infant-bonding-and-care-through-emotion-awareness) is a pioneering project aimed at developing a reliable technological solution to accurately identify and classify the emotional states expressed in baby cries. This innovative system will revolutionize early infant care by providing parents and caregivers with real-time insights into their baby's emotional needs, fostering optimal emotional development during this critical stage of life.
+
+
+
 # Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,django,py,c,cs,figma,git,heroku,java)](https://skillicons.dev) <br></br>
