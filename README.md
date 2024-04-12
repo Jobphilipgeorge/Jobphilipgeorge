@@ -1,6 +1,6 @@
 <img src="https://github.com/Jobphilipgeorge/Jobphilipgeorge/blob/main/Job%20Readme.png" />
 
-<br><br>
+# About me🙋🏿‍♂️
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [CryBell](https://github.com/meghaarajeev/CryBell-Enhancing-infant-bonding-and-care-through-emotion-awareness.git) 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 Project Building using Python and Django.
