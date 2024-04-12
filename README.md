@@ -27,8 +27,9 @@
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,py,c,cs,figma,git,heroku,java)](https://skillicons.dev) <br></br>
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,nodejs,ps,replit,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,py,c,cs)](https://skillicons.dev) <br></br>
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,ps,replit,vercel,vscode,figma)](https://skillicons.dev) <br></br>
+[![My Skills](https://skillicons.dev/icons?i=heroku,java,nodejs,git)](https://skillicons.dev)
 
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
