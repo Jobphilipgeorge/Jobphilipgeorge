@@ -23,6 +23,9 @@
 ## CryBell👶🏿
 [CryBell](https://github.com/Jobphilipgeorge/CryBell-Enhancing-infant-bonding-and-care-through-emotion-awareness) is a pioneering project aimed at developing a reliable technological solution to accurately identify and classify the emotional states expressed in baby cries. This innovative system will revolutionize early infant care by providing parents and caregivers with real-time insights into their baby's emotional needs, fostering optimal emotional development during this critical stage of life.
 
+## EmoSense🔊
+[EmoSense](https://github.com/Jobphilipgeorge/EmoSense-EmotionAnalysis-Machine-Learning)As a part of IIIT Hyderabad Reasearch Teaser Programme me and my team developed a robust emotion recognition system utilizing machine learning techniques on the CREMA-D dataset to classify various emotions expressed in audio recordings accurately. This involves analyzing different acoustic features of the speech signal, such as pitch, intensity, and duration, as well as linguistic features and contextual information, to infer the underlying emotional state.By analyzing these features, we can better understand how emotions are conveyed through speech and use this information to improve communication and interaction between humans and machines.
+
 
 
 # Languages and Tools
